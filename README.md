@@ -5,4 +5,6 @@ Python script will convert temperature values from Celsius to Fahrenheit
 
 Pushed the image to Docker hub, which can be found [here](https://hub.docker.com/repository/docker/kjb24/temp_converter).
 
+Screenshot of the project running in Pycharm: ![Example](/images/Capture.PNG)
+
 To run in a new container perfrom following command: `docker run temp_converter:latest`
